@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Hustler",
+    "organisation": "Lazy Kapre",
+    "startDate": "2022",
+    "endDate": "2023",
+    "experiences": ["Documentation", "Talking to the owner/manager"],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "Web Development",
+    "organisation": "SimpliLearn",
+    "startDate": "April 2022",
+    "endDate": "May 2022",
+    "experiences": ["Designed and developed ", "Utilized HTML, CSS, and JavaScript "],
+    "imageSrc": "history/microsoft.png"
+  },
+  {
+    "role": "Web design",
+    "organisation": "Freecodecamp",
+    "startDate": "May 7, 2023",
+    "endDate": "May 23, 2023",
+    "experiences": [
+      "Designing  and build website",
+      "Enhancing visibility and user engagement."
+    ],
+    "imageSrc": "history/netflix.png"
+  }
+]

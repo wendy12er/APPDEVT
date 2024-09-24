@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Freecodecamp",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project implementing security measures and protocols, organizations safeguard sensitive information against threats.",
+    "skills": ["", "", ""],
+    "source": "https://www.freecodecamp.org/certification/Wendyalcoriza/information-security-v7"
+  },
+  {
+    "title": "Freecodecamp",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn by build and designing website and it is visually appealing, easy to navigate, and optimized for users.",
+    "skills": ["", "", "", ""],
+    "source": "https://www.freecodecamp.org/certification/Wendyalcoriza/responsive-web-design"
+  },
+  {
+    "title": "Simplilearn",
+    "imageSrc": "projects/project.png",
+    "description": "This project that create your own quiz involves designing and coding a web application that allows users to answer questions.",
+    "skills": ["", "", ""],
+    "source": "https://lms.simplilearn.com/dashboard/certificate"
+  }
+]
